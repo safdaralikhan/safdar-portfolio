@@ -30,7 +30,7 @@ function Projects() {
               description="Rentatron is a full-stack rental marketplace platform built with Next.js frontend and Django backend. On the user side, individuals can signup/login, create their own listings for products, vehicles, or services,
  browse and interact with other users’ listings, manage bookings, and track transactions. All user actions and listings are verified and approved through the admin panel. On the admin side, the platform provides
  comprehensive controls for managing listings, verifying documents, approving user activities, monitoring transactions, and overseeing overall platform operations to ensure secure and smooth marketplace functionality."
-              ghLink="https://github.com/safdaralikhan/rentatron-user"
+              // ghLink="https://github.com/safdaralikhan/rentatron-user"
               demoLink="https://rentatron.vercel.app/"
             />
           </Col>
@@ -41,7 +41,7 @@ function Projects() {
               isBlog={false}
               title="Smart Calling Agent"
               description="Smart Calling Agent is an AI-powered platform built with Vite.js frontend and FastAPI backend that automates inbound and outbound calling campaigns. Users can create agents and assign them to campaigns with specific numbers, voice preferences, and languages. Calls are recorded, and detailed analytics are provided for performance tracking. The platform leverages Retail AI and other 3rd-party APIs for AI-driven automation, making call management efficient and streamlined."
-              ghLink="https://github.com/safdaralikhan/smart-calling-ai"
+              // ghLink="https://github.com/safdaralikhan/smart-calling-ai"
             demoLink="https://callmindai-admin.netlify.app"
             />
           </Col>
@@ -55,7 +55,7 @@ function Projects() {
  designed to automate trucking company operations by processing invoices and service documents. Users can
  upload any PDF or invoice, and an integrated OpenAI model analyzes the document to extract key details such as vendor information,
  services provided, truck details, quantities, pricing, and totals."
-              ghLink="https://github.com/safdaralikhan/trucker-admin"
+              // ghLink="https://github.com/safdaralikhan/trucker-admin"
             demoLink="https://truckeradmin.netlify.app/ "              
             />
           </Col>
@@ -66,7 +66,7 @@ function Projects() {
               isBlog={false}
               title="Scopium AI"
               description="Scopium AI is a React-based frontend platform with an AI-powered backend that uses machine learning algorithms to analyze user-provided health data and symptoms. The system collects input from the frontend, processes it with advanced AI models, and generates predictions for potential health risks, primarily focusing on cardiovascular conditions. Results are presented visually in graphs and detailed document formats, providing actionable insights for clinics, healthcare professionals, and patients. The platform demonstrates the integration of real-time data collection, AI-driven analysis, and interactive result visualization."
-              ghLink="https://github.com/safdaralikhan/scopium-dashboard"
+              // ghLink="https://github.com/safdaralikhan/scopium-dashboard"
 
             demoLink="https://scopium.ai/"
             
@@ -96,7 +96,7 @@ AI-powered content generation, and social media updates. Whether it’s a client
               description="MyAnimeWatch is a modern anime streaming and information platform built with Next.js and TailwindCSS on the frontend, with a Django backend. The backend integrates multiple 3rd-party APIs to fetch comprehensive anime details including episodes, descriptions, ratings, genres, and release information. Users can browse, search, and filter anime titles, view detailed information for each anime, and keep track of their favorite series.
  The platform ensures a seamless user experience with fast loading, responsive design, and real-time data fetched from the integrated APIs.
 "
-              // ghLink="https://github.com/muhammadasad149/emotions_dectections.git"
+              ghLink="https://github.com/muhammadasad149/emotions_dectections.git"
             demoLink="https://myanimewatch.vercel.app/"     
             />
           </Col>
